@@ -36,6 +36,17 @@
   margin-bottom: 0px;
 }
 
+
+
+#ss{
+    margin-bottom: -35px;
+    position: absolute;
+    bottom: 46px;
+    right: 46px;
+	
+	
+}
+
 #name{
   height: 36.67;
   width: 14;
